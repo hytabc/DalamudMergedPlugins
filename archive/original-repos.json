@@ -1,0 +1,206 @@
+{
+  "exportedAt": "2026-10-25T22:21:21.621740+08:00",
+  "count": 50,
+  "repos": [
+    {
+      "Url": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/4679/DalamudPlugins/main/repo.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/pluginmaster.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://love.puni.sh/ment.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/emptyset0/Radar_akira0245/master/pluginmaster.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/cn.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://puni.sh/api/repository/veyn",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/API9/pluginmaster.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/repo.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/PluginMaster.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/MordionGaol.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/moewcorp/DalamudPlugins/main/pluginmaster.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://puni.sh/plugin/Splatoon",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/Nik-Potokar/MyDalamudPlugins/main/pluginmaster.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.fastgit.org/Karlin-Z/DalamudPlugins/Api4/pluginmaster.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://github.com/DecSgr01/GoldSaucer/blob/master/src/GoldSaucer.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://gh.atmoomen.top/DalamudPlugins/main/pluginmaster-cn.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/ArchiDog1998/DalamudPlugins/main/pluginmaster.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://puni.sh/api/repository/jukka",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/Bluefissure/DalamudPlugins/Bluefissure/pluginmaster.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/pluginmaster_gh.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/MakePlacePlugin.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/c98cmka/MyDalamudPlugins/main/pluginmaster.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://puni.sh/api/repository/herc",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/44451516-ff14/BossmodRebornCN/refs/heads/main/pluginmaster.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://puni.sh/api/repository/croizat",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://plugins.carvel.li/",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://github.com/MeowZWR/DalamudPlugin/raw/main/pants.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/Karlin-Z/DalamudPlugins/main/pluginmaster.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/extrant/DalamudPlugins/main/pluginmaster.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://gp.xuolu.com/love.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://puni.sh/api/repository/ice",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/pants.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/main/pluginmaster.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/mokocup/OccultCrescentHelper/refs/heads/master/repo.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/44451516/ffxiv_bossmod/CN/pluginmaster.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/OhKannaDuh/plugins/refs/heads/master/manifest.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/BlackCleaverLoli/MissFisher/refs/heads/main/MissFisher.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/refs/heads/main/plugin.json",
+      "IsEnabled": true
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/main/pluginmaster.json",
+      "IsEnabled": true
+    }
+  ]
+}

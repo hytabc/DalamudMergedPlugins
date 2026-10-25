@@ -1,0 +1,260 @@
+[
+  {
+    "file": "00.json",
+    "url": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json",
+    "resolved": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json",
+    "count": 5
+  },
+  {
+    "file": "01.json",
+    "url": "https://raw.githubusercontent.com/4679/DalamudPlugins/main/repo.json",
+    "resolved": "https://raw.githubusercontent.com/4679/DalamudPlugins/main/repo.json",
+    "count": 1
+  },
+  {
+    "file": "02.json",
+    "url": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/pluginmaster.json",
+    "resolved": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/pluginmaster.json",
+    "count": 1
+  },
+  {
+    "file": "03.json",
+    "url": "https://love.puni.sh/ment.json",
+    "resolved": "https://love.puni.sh/ment.json",
+    "count": 14
+  },
+  {
+    "file": "04.json",
+    "url": "https://raw.githubusercontent.com/emptyset0/Radar_akira0245/master/pluginmaster.json",
+    "resolved": "https://raw.githubusercontent.com/emptyset0/Radar_akira0245/master/pluginmaster.json",
+    "count": 1
+  },
+  {
+    "file": "05.json",
+    "url": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
+    "resolved": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
+    "count": 16
+  },
+  {
+    "file": "06.json",
+    "url": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
+    "resolved": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
+    "count": 35
+  },
+  {
+    "file": "07.json",
+    "url": "https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json",
+    "resolved": "https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json",
+    "count": 13
+  },
+  {
+    "file": "08.json",
+    "url": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/cn.json",
+    "resolved": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/cn.json",
+    "count": 1
+  },
+  {
+    "file": "09.json",
+    "url": "https://puni.sh/api/repository/veyn",
+    "resolved": "https://puni.sh/api/repository/veyn",
+    "count": 6
+  },
+  {
+    "file": "11.json",
+    "url": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/repo.json",
+    "resolved": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/repo.json",
+    "count": 21
+  },
+  {
+    "file": "12.json",
+    "url": "https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/PluginMaster.json",
+    "resolved": "https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/PluginMaster.json",
+    "count": 12
+  },
+  {
+    "file": "13.json",
+    "url": "https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/MordionGaol.json",
+    "resolved": "https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/MordionGaol.json",
+    "count": 1
+  },
+  {
+    "file": "14.json",
+    "url": "https://raw.githubusercontent.com/moewcorp/DalamudPlugins/main/pluginmaster.json",
+    "resolved": "https://raw.githubusercontent.com/moewcorp/DalamudPlugins/main/pluginmaster.json",
+    "count": 3
+  },
+  {
+    "file": "15.json",
+    "url": "https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json",
+    "resolved": "https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json",
+    "count": 16
+  },
+  {
+    "file": "17.json",
+    "url": "https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json",
+    "resolved": "https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json",
+    "count": 1
+  },
+  {
+    "file": "18.json",
+    "url": "https://raw.githubusercontent.com/Nik-Potokar/MyDalamudPlugins/main/pluginmaster.json",
+    "resolved": "https://raw.githubusercontent.com/Nik-Potokar/MyDalamudPlugins/main/pluginmaster.json",
+    "count": 0
+  },
+  {
+    "file": "22.json",
+    "url": "https://raw.githubusercontent.com/ArchiDog1998/DalamudPlugins/main/pluginmaster.json",
+    "resolved": "https://raw.githubusercontent.com/ArchiDog1998/DalamudPlugins/main/pluginmaster.json",
+    "count": 4
+  },
+  {
+    "file": "23.json",
+    "url": "https://puni.sh/api/repository/jukka",
+    "resolved": "https://puni.sh/api/repository/jukka",
+    "count": 2
+  },
+  {
+    "file": "24.json",
+    "url": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
+    "resolved": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
+    "count": 6
+  },
+  {
+    "file": "25.json",
+    "url": "https://raw.githubusercontent.com/Bluefissure/DalamudPlugins/Bluefissure/pluginmaster.json",
+    "resolved": "https://raw.githubusercontent.com/Bluefissure/DalamudPlugins/Bluefissure/pluginmaster.json",
+    "count": 6
+  },
+  {
+    "file": "26.json",
+    "url": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/pluginmaster_gh.json",
+    "resolved": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/pluginmaster_gh.json",
+    "count": 32
+  },
+  {
+    "file": "27.json",
+    "url": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+    "resolved": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+    "count": 123
+  },
+  {
+    "file": "28.json",
+    "url": "https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/MakePlacePlugin.json",
+    "resolved": "https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/MakePlacePlugin.json",
+    "count": 1
+  },
+  {
+    "file": "30.json",
+    "url": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json",
+    "resolved": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json",
+    "count": 10
+  },
+  {
+    "file": "31.json",
+    "url": "https://puni.sh/api/repository/herc",
+    "resolved": "https://puni.sh/api/repository/herc",
+    "count": 1
+  },
+  {
+    "file": "32.json",
+    "url": "https://raw.githubusercontent.com/44451516-ff14/BossmodRebornCN/refs/heads/main/pluginmaster.json",
+    "resolved": "https://raw.githubusercontent.com/44451516-ff14/BossmodRebornCN/refs/heads/main/pluginmaster.json",
+    "count": 1
+  },
+  {
+    "file": "33.json",
+    "url": "https://puni.sh/api/repository/croizat",
+    "resolved": "https://puni.sh/api/repository/croizat",
+    "count": 3
+  },
+  {
+    "file": "35.json",
+    "url": "https://github.com/MeowZWR/DalamudPlugin/raw/main/pants.json",
+    "resolved": "https://github.com/MeowZWR/DalamudPlugin/raw/main/pants.json",
+    "count": 3
+  },
+  {
+    "file": "36.json",
+    "url": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json",
+    "resolved": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json",
+    "count": 15
+  },
+  {
+    "file": "37.json",
+    "url": "https://raw.githubusercontent.com/Karlin-Z/DalamudPlugins/main/pluginmaster.json",
+    "resolved": "https://raw.githubusercontent.com/Karlin-Z/DalamudPlugins/main/pluginmaster.json",
+    "count": 3
+  },
+  {
+    "file": "38.json",
+    "url": "https://raw.githubusercontent.com/extrant/DalamudPlugins/main/pluginmaster.json",
+    "resolved": "https://raw.githubusercontent.com/extrant/DalamudPlugins/main/pluginmaster.json",
+    "count": 8
+  },
+  {
+    "file": "39.json",
+    "url": "https://gp.xuolu.com/love.json",
+    "resolved": "https://gp.xuolu.com/love.json",
+    "count": 5
+  },
+  {
+    "file": "40.json",
+    "url": "https://puni.sh/api/repository/ice",
+    "resolved": "https://puni.sh/api/repository/ice",
+    "count": 3
+  },
+  {
+    "file": "41.json",
+    "url": "https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.json",
+    "resolved": "https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.json",
+    "count": 12
+  },
+  {
+    "file": "42.json",
+    "url": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/pants.json",
+    "resolved": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/pants.json",
+    "count": 3
+  },
+  {
+    "file": "43.json",
+    "url": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/main/pluginmaster.json",
+    "resolved": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/main/pluginmaster.json",
+    "count": 6
+  },
+  {
+    "file": "44.json",
+    "url": "https://raw.githubusercontent.com/mokocup/OccultCrescentHelper/refs/heads/master/repo.json",
+    "resolved": "https://raw.githubusercontent.com/mokocup/OccultCrescentHelper/refs/heads/master/repo.json",
+    "count": 1
+  },
+  {
+    "file": "45.json",
+    "url": "https://raw.githubusercontent.com/44451516/ffxiv_bossmod/CN/pluginmaster.json",
+    "resolved": "https://raw.githubusercontent.com/44451516/ffxiv_bossmod/CN/pluginmaster.json",
+    "count": 1
+  },
+  {
+    "file": "46.json",
+    "url": "https://raw.githubusercontent.com/OhKannaDuh/plugins/refs/heads/master/manifest.json",
+    "resolved": "https://raw.githubusercontent.com/OhKannaDuh/plugins/refs/heads/master/manifest.json",
+    "count": 1
+  },
+  {
+    "file": "47.json",
+    "url": "https://raw.githubusercontent.com/BlackCleaverLoli/MissFisher/refs/heads/main/MissFisher.json",
+    "resolved": "https://raw.githubusercontent.com/BlackCleaverLoli/MissFisher/refs/heads/main/MissFisher.json",
+    "count": 1
+  },
+  {
+    "file": "48.json",
+    "url": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/refs/heads/main/plugin.json",
+    "resolved": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/refs/heads/main/plugin.json",
+    "count": 3
+  },
+  {
+    "file": "49.json",
+    "url": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/main/pluginmaster.json",
+    "resolved": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/main/pluginmaster.json",
+    "count": 7
+  }
+]

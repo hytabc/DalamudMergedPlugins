@@ -1,0 +1,149 @@
+[
+  {
+    "InternalName": "MaskedCarnivale",
+    "Name": "MaskedCarnivale",
+    "Version": "0.0.0.7",
+    "status": "EMPTY",
+    "url": null
+  },
+  {
+    "InternalName": "HoardFarm",
+    "Name": "Hoard Farm - DETECTABLE",
+    "Version": "1.6.0.2",
+    "status": "EMPTY",
+    "url": null
+  },
+  {
+    "InternalName": "XIVSlothComboX",
+    "Name": "XIVSlothComboX",
+    "Version": "3.3.2.5",
+    "status": "HTTP404",
+    "url": "https://raw.githubusercontent.com/44451516/XIVSlothCombo/CN/release/XIVSlothComboX/latest.zip"
+  },
+  {
+    "InternalName": "FATEAutoSync",
+    "Name": "FATE Auto Sync",
+    "Version": "1.3.0.0",
+    "status": "HTTP404",
+    "url": "https://github.com/Aida-Enna/XIVPlugins/blob/main/Plogon/FATEAutoSync.zip?raw=true"
+  },
+  {
+    "InternalName": "FoodCheck",
+    "Name": "Food Check",
+    "Version": "1.0.0.0",
+    "status": "HTTP404",
+    "url": "https://github.com/Aida-Enna/XIVPlugins/blob/main/Plogon/FoodCheck.zip?raw=true"
+  },
+  {
+    "InternalName": "LootMaster",
+    "Name": "Loot Master",
+    "Version": "1.0.0.6",
+    "status": "HTTP404",
+    "url": "https://github.com/Aida-Enna/XIVPlugins/blob/main/Plogon/LootMaster.zip?raw=true"
+  },
+  {
+    "InternalName": "PotatoFamine2",
+    "Name": "Potato Famine 2",
+    "Version": "2.0.0.1",
+    "status": "HTTP404",
+    "url": "https://github.com/Aida-Enna/XIVPlugins/blob/main/Plogon/PotatoFamine2.zip?raw=true"
+  },
+  {
+    "InternalName": "XIVSlothCombo",
+    "Name": "XIVSlothCombo",
+    "Version": "3.1.2.1",
+    "status": "HTTP404",
+    "url": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip"
+  },
+  {
+    "InternalName": "MacroChain-Ori",
+    "Name": "Macro Chain-Ori",
+    "Version": "999.999.999.999",
+    "status": "HTTP404",
+    "url": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MacroChain-Ori/latest.zip"
+  },
+  {
+    "InternalName": "Debugger",
+    "Name": "Divination.Debugger",
+    "Version": "6.58.12.0",
+    "status": "HTTP404",
+    "url": "https://xiv.starry.blue/plugins/stable/Debugger/download"
+  },
+  {
+    "InternalName": "DiscordIntegration",
+    "Name": "Divination.DiscordIntegration",
+    "Version": "6.58.12.0",
+    "status": "HTTP404",
+    "url": "https://xiv.starry.blue/plugins/stable/DiscordIntegration/download"
+  },
+  {
+    "InternalName": "InstanceIDViewer",
+    "Name": "Divination.InstanceIDViewer",
+    "Version": "6.58.12.0",
+    "status": "HTTP404",
+    "url": "https://xiv.starry.blue/plugins/stable/InstanceIDViewer/download"
+  },
+  {
+    "InternalName": "MareSynchronos",
+    "Name": "Mare Synchronos",
+    "Version": "0.9.43",
+    "status": "UNREACHABLE",
+    "url": "https://cf.maresynchronos.com/release/0.9.43.zip"
+  },
+  {
+    "InternalName": "AetherBox",
+    "Name": "AetherBox",
+    "Version": "1.0.0.13",
+    "status": "HTTP404",
+    "url": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.13/latest.zip"
+  },
+  {
+    "InternalName": "SamplePlugin",
+    "Name": "Sample Plugin",
+    "Version": "0.0.0.8",
+    "status": "HTTP404",
+    "url": "https://github.com/BrakusTapus/SamplePlugin/releases/download/0.0.0.8/latest.zip"
+  },
+  {
+    "InternalName": "BetterTargetingSystemPvP",
+    "Name": "Better Targeting System",
+    "Version": "1.0.0.5",
+    "status": "HTTP404",
+    "url": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/releases/download/1.0.0.5/latest.zip"
+  },
+  {
+    "InternalName": "GrowUp",
+    "Name": "Grow Up",
+    "Version": "0.0.0.3",
+    "status": "HTTP404",
+    "url": "https://github.com/deansheather/GrowUp/releases/download/0.0.0.3/GrowUp.zip"
+  },
+  {
+    "InternalName": "PFRadar",
+    "Name": "PFRadar",
+    "Version": "1.5.0.7",
+    "status": "HTTP403",
+    "url": "https://gp-raw.xuolu.com/release/decorwdyun/PFRadar/releases/download/1.5.0.7/latest.zip"
+  },
+  {
+    "InternalName": "FuckDalamudCN",
+    "Name": "FastDalamudCN",
+    "Version": "2.0.0.10",
+    "status": "HTTP403",
+    "url": "https://gp-raw.xuolu.com/release/decorwdyun/FuckDalamudCN/releases/download/v2.0.0.10/FuckDalamudCN-2.0.0.10.zip"
+  },
+  {
+    "InternalName": "Accountant",
+    "Name": "Accountant (CN)",
+    "Version": "1.8.3.0",
+    "status": "HTTP403",
+    "url": "https://gp-raw.xuolu.com/release/decorwdyun/Accountant/releases/download/1.8.3.0/latest.zip"
+  },
+  {
+    "InternalName": "PFClassifier",
+    "Name": "PFClassifier",
+    "Version": "1.2.30",
+    "status": "HTTP403",
+    "url": "https://gp-raw.xuolu.com/release/decorwdyun/PFClassifier/releases/download/v1.2.30/latest.zip"
+  }
+]
