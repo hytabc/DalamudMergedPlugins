@@ -1,260 +1,359 @@
 [
   {
-    "file": "00.json",
+    "idx": 0,
     "url": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json",
     "resolved": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json",
-    "count": 5
+    "count": 5,
+    "status": "OK"
   },
   {
-    "file": "01.json",
+    "idx": 1,
     "url": "https://raw.githubusercontent.com/4679/DalamudPlugins/main/repo.json",
     "resolved": "https://raw.githubusercontent.com/4679/DalamudPlugins/main/repo.json",
-    "count": 1
+    "count": 1,
+    "status": "OK"
   },
   {
-    "file": "02.json",
+    "idx": 2,
     "url": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/pluginmaster.json",
     "resolved": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/pluginmaster.json",
-    "count": 1
+    "count": 1,
+    "status": "OK"
   },
   {
-    "file": "03.json",
+    "idx": 3,
     "url": "https://love.puni.sh/ment.json",
     "resolved": "https://love.puni.sh/ment.json",
-    "count": 14
+    "count": 14,
+    "status": "OK"
   },
   {
-    "file": "04.json",
+    "idx": 4,
     "url": "https://raw.githubusercontent.com/emptyset0/Radar_akira0245/master/pluginmaster.json",
     "resolved": "https://raw.githubusercontent.com/emptyset0/Radar_akira0245/master/pluginmaster.json",
-    "count": 1
+    "count": 1,
+    "status": "OK"
   },
   {
-    "file": "05.json",
+    "idx": 5,
     "url": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
     "resolved": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
-    "count": 16
+    "count": 16,
+    "status": "OK"
   },
   {
-    "file": "06.json",
+    "idx": 6,
     "url": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
     "resolved": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
-    "count": 35
+    "count": 35,
+    "status": "OK"
   },
   {
-    "file": "07.json",
+    "idx": 7,
     "url": "https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json",
     "resolved": "https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json",
-    "count": 13
+    "count": 13,
+    "status": "OK"
   },
   {
-    "file": "08.json",
+    "idx": 8,
     "url": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/cn.json",
     "resolved": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/cn.json",
-    "count": 1
+    "count": 1,
+    "status": "OK"
   },
   {
-    "file": "09.json",
+    "idx": 9,
     "url": "https://puni.sh/api/repository/veyn",
     "resolved": "https://puni.sh/api/repository/veyn",
-    "count": 6
+    "count": 6,
+    "status": "OK"
   },
   {
-    "file": "11.json",
+    "idx": 10,
+    "url": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/API9/pluginmaster.json",
+    "resolved": null,
+    "count": 0,
+    "status": "FAIL",
+    "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "idx": 11,
     "url": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/repo.json",
     "resolved": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/repo.json",
-    "count": 21
+    "count": 21,
+    "status": "OK"
   },
   {
-    "file": "12.json",
+    "idx": 12,
     "url": "https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/PluginMaster.json",
     "resolved": "https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/PluginMaster.json",
-    "count": 12
+    "count": 12,
+    "status": "OK"
   },
   {
-    "file": "13.json",
+    "idx": 13,
     "url": "https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/MordionGaol.json",
     "resolved": "https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/MordionGaol.json",
-    "count": 1
+    "count": 1,
+    "status": "OK"
   },
   {
-    "file": "14.json",
+    "idx": 14,
     "url": "https://raw.githubusercontent.com/moewcorp/DalamudPlugins/main/pluginmaster.json",
     "resolved": "https://raw.githubusercontent.com/moewcorp/DalamudPlugins/main/pluginmaster.json",
-    "count": 3
+    "count": 3,
+    "status": "OK"
   },
   {
-    "file": "15.json",
+    "idx": 15,
     "url": "https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json",
     "resolved": "https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json",
-    "count": 16
+    "count": 16,
+    "status": "OK"
   },
   {
-    "file": "17.json",
+    "idx": 16,
+    "url": "https://puni.sh/plugin/Splatoon",
+    "resolved": null,
+    "count": 0,
+    "status": "FAIL",
+    "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+    "idx": 17,
     "url": "https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json",
     "resolved": "https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json",
-    "count": 1
+    "count": 1,
+    "status": "OK"
   },
   {
-    "file": "18.json",
+    "idx": 18,
     "url": "https://raw.githubusercontent.com/Nik-Potokar/MyDalamudPlugins/main/pluginmaster.json",
     "resolved": "https://raw.githubusercontent.com/Nik-Potokar/MyDalamudPlugins/main/pluginmaster.json",
-    "count": 0
+    "count": 0,
+    "status": "OK"
   },
   {
-    "file": "22.json",
+    "idx": 19,
+    "url": "https://raw.fastgit.org/Karlin-Z/DalamudPlugins/Api4/pluginmaster.json",
+    "resolved": null,
+    "count": 0,
+    "status": "FAIL",
+    "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)>"
+  },
+  {
+    "idx": 20,
+    "url": "https://github.com/DecSgr01/GoldSaucer/blob/master/src/GoldSaucer.json",
+    "resolved": null,
+    "count": 0,
+    "status": "FAIL",
+    "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "idx": 21,
+    "url": "https://gh.atmoomen.top/DalamudPlugins/main/pluginmaster-cn.json",
+    "resolved": null,
+    "count": 0,
+    "status": "FAIL",
+    "error": "HTTPError: HTTP Error 400: Bad Request"
+  },
+  {
+    "idx": 22,
     "url": "https://raw.githubusercontent.com/ArchiDog1998/DalamudPlugins/main/pluginmaster.json",
     "resolved": "https://raw.githubusercontent.com/ArchiDog1998/DalamudPlugins/main/pluginmaster.json",
-    "count": 4
+    "count": 4,
+    "status": "OK"
   },
   {
-    "file": "23.json",
+    "idx": 23,
     "url": "https://puni.sh/api/repository/jukka",
     "resolved": "https://puni.sh/api/repository/jukka",
-    "count": 2
+    "count": 2,
+    "status": "OK"
   },
   {
-    "file": "24.json",
+    "idx": 24,
     "url": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
     "resolved": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
-    "count": 6
+    "count": 6,
+    "status": "OK"
   },
   {
-    "file": "25.json",
+    "idx": 25,
     "url": "https://raw.githubusercontent.com/Bluefissure/DalamudPlugins/Bluefissure/pluginmaster.json",
     "resolved": "https://raw.githubusercontent.com/Bluefissure/DalamudPlugins/Bluefissure/pluginmaster.json",
-    "count": 6
+    "count": 6,
+    "status": "OK"
   },
   {
-    "file": "26.json",
+    "idx": 26,
     "url": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/pluginmaster_gh.json",
     "resolved": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/pluginmaster_gh.json",
-    "count": 32
+    "count": 32,
+    "status": "OK"
   },
   {
-    "file": "27.json",
+    "idx": 27,
     "url": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
     "resolved": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-    "count": 123
+    "count": 123,
+    "status": "OK"
   },
   {
-    "file": "28.json",
+    "idx": 28,
     "url": "https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/MakePlacePlugin.json",
     "resolved": "https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/MakePlacePlugin.json",
-    "count": 1
+    "count": 1,
+    "status": "OK"
   },
   {
-    "file": "30.json",
+    "idx": 29,
+    "url": "https://raw.githubusercontent.com/c98cmka/MyDalamudPlugins/main/pluginmaster.json",
+    "resolved": null,
+    "count": 0,
+    "status": "FAIL",
+    "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "idx": 30,
     "url": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json",
     "resolved": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json",
-    "count": 10
+    "count": 10,
+    "status": "OK"
   },
   {
-    "file": "31.json",
+    "idx": 31,
     "url": "https://puni.sh/api/repository/herc",
     "resolved": "https://puni.sh/api/repository/herc",
-    "count": 1
+    "count": 1,
+    "status": "OK"
   },
   {
-    "file": "32.json",
+    "idx": 32,
     "url": "https://raw.githubusercontent.com/44451516-ff14/BossmodRebornCN/refs/heads/main/pluginmaster.json",
     "resolved": "https://raw.githubusercontent.com/44451516-ff14/BossmodRebornCN/refs/heads/main/pluginmaster.json",
-    "count": 1
+    "count": 1,
+    "status": "OK"
   },
   {
-    "file": "33.json",
+    "idx": 33,
     "url": "https://puni.sh/api/repository/croizat",
     "resolved": "https://puni.sh/api/repository/croizat",
-    "count": 3
+    "count": 3,
+    "status": "OK"
   },
   {
-    "file": "35.json",
+    "idx": 34,
+    "url": "https://plugins.carvel.li/",
+    "resolved": null,
+    "count": 0,
+    "status": "FAIL",
+    "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)>"
+  },
+  {
+    "idx": 35,
     "url": "https://github.com/MeowZWR/DalamudPlugin/raw/main/pants.json",
     "resolved": "https://github.com/MeowZWR/DalamudPlugin/raw/main/pants.json",
-    "count": 3
+    "count": 3,
+    "status": "OK"
   },
   {
-    "file": "36.json",
+    "idx": 36,
     "url": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json",
     "resolved": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json",
-    "count": 15
+    "count": 15,
+    "status": "OK"
   },
   {
-    "file": "37.json",
+    "idx": 37,
     "url": "https://raw.githubusercontent.com/Karlin-Z/DalamudPlugins/main/pluginmaster.json",
     "resolved": "https://raw.githubusercontent.com/Karlin-Z/DalamudPlugins/main/pluginmaster.json",
-    "count": 3
+    "count": 3,
+    "status": "OK"
   },
   {
-    "file": "38.json",
+    "idx": 38,
     "url": "https://raw.githubusercontent.com/extrant/DalamudPlugins/main/pluginmaster.json",
     "resolved": "https://raw.githubusercontent.com/extrant/DalamudPlugins/main/pluginmaster.json",
-    "count": 8
+    "count": 8,
+    "status": "OK"
   },
   {
-    "file": "39.json",
+    "idx": 39,
     "url": "https://gp.xuolu.com/love.json",
     "resolved": "https://gp.xuolu.com/love.json",
-    "count": 5
+    "count": 5,
+    "status": "OK"
   },
   {
-    "file": "40.json",
+    "idx": 40,
     "url": "https://puni.sh/api/repository/ice",
     "resolved": "https://puni.sh/api/repository/ice",
-    "count": 3
+    "count": 3,
+    "status": "OK"
   },
   {
-    "file": "41.json",
+    "idx": 41,
     "url": "https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.json",
     "resolved": "https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.json",
-    "count": 12
+    "count": 12,
+    "status": "OK"
   },
   {
-    "file": "42.json",
+    "idx": 42,
     "url": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/pants.json",
     "resolved": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/pants.json",
-    "count": 3
+    "count": 3,
+    "status": "OK"
   },
   {
-    "file": "43.json",
+    "idx": 43,
     "url": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/main/pluginmaster.json",
     "resolved": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/main/pluginmaster.json",
-    "count": 6
+    "count": 6,
+    "status": "OK"
   },
   {
-    "file": "44.json",
+    "idx": 44,
     "url": "https://raw.githubusercontent.com/mokocup/OccultCrescentHelper/refs/heads/master/repo.json",
     "resolved": "https://raw.githubusercontent.com/mokocup/OccultCrescentHelper/refs/heads/master/repo.json",
-    "count": 1
+    "count": 1,
+    "status": "OK"
   },
   {
-    "file": "45.json",
+    "idx": 45,
     "url": "https://raw.githubusercontent.com/44451516/ffxiv_bossmod/CN/pluginmaster.json",
     "resolved": "https://raw.githubusercontent.com/44451516/ffxiv_bossmod/CN/pluginmaster.json",
-    "count": 1
+    "count": 1,
+    "status": "OK"
   },
   {
-    "file": "46.json",
+    "idx": 46,
     "url": "https://raw.githubusercontent.com/OhKannaDuh/plugins/refs/heads/master/manifest.json",
     "resolved": "https://raw.githubusercontent.com/OhKannaDuh/plugins/refs/heads/master/manifest.json",
-    "count": 1
+    "count": 1,
+    "status": "OK"
   },
   {
-    "file": "47.json",
+    "idx": 47,
     "url": "https://raw.githubusercontent.com/BlackCleaverLoli/MissFisher/refs/heads/main/MissFisher.json",
     "resolved": "https://raw.githubusercontent.com/BlackCleaverLoli/MissFisher/refs/heads/main/MissFisher.json",
-    "count": 1
+    "count": 1,
+    "status": "OK"
   },
   {
-    "file": "48.json",
+    "idx": 48,
     "url": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/refs/heads/main/plugin.json",
     "resolved": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/refs/heads/main/plugin.json",
-    "count": 3
+    "count": 3,
+    "status": "OK"
   },
   {
-    "file": "49.json",
+    "idx": 49,
     "url": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/main/pluginmaster.json",
     "resolved": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/main/pluginmaster.json",
-    "count": 7
+    "count": 7,
+    "status": "OK"
   }
 ]

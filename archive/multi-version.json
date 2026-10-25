@@ -1,135 +1,54 @@
 [
   {
-    "InternalName": "IINACT",
-    "Name": "IINACT",
-    "occurrences": 4,
-    "distinctVersions": 3,
-    "picked": {
-      "AssemblyVersion": "2.10.3.11",
-      "DalamudApiLevel": 15,
-      "source": "https://github.com/MeowZWR/DalamudPlugin/raw/main/pants.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "2.10.3.11",
-        "DalamudApiLevel": 15,
-        "source": "https://github.com/MeowZWR/DalamudPlugin/raw/main/pants.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "2.1.4.3",
-        "DalamudApiLevel": 14,
-        "source": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json",
-        "link": "OK",
-        "selected": false
-      },
-      {
-        "AssemblyVersion": "2.5.1.0",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "MinionRoulette",
-    "Name": "Minion Roulette",
-    "occurrences": 2,
-    "distinctVersions": 2,
-    "picked": {
-      "AssemblyVersion": "1.2.0.3",
-      "DalamudApiLevel": null,
-      "source": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/pluginmaster.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "1.2.0.3",
-        "DalamudApiLevel": null,
-        "source": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/pluginmaster.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "1.1.3.0",
-        "DalamudApiLevel": null,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "Orbwalker",
-    "Name": "Orbwalker",
-    "occurrences": 3,
-    "distinctVersions": 2,
-    "picked": {
-      "AssemblyVersion": "1.0.1.10",
-      "DalamudApiLevel": "15",
-      "source": "https://love.puni.sh/ment.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "1.0.1.10",
-        "DalamudApiLevel": "15",
-        "source": "https://love.puni.sh/ment.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "1.0.0.4",
-        "DalamudApiLevel": "9",
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "AutoRetainer",
-    "Name": "AutoRetainer",
+    "InternalName": "AetheryteLinkInChat",
+    "Name": "Divination.AetheryteLinkInChat",
     "occurrences": 6,
-    "distinctVersions": 5,
+    "distinctVersions": 6,
     "picked": {
-      "AssemblyVersion": "4.6.2.14",
-      "DalamudApiLevel": "15",
-      "source": "https://love.puni.sh/ment.json"
+      "AssemblyVersion": "7.5.1.4",
+      "DalamudApiLevel": 15,
+      "source": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/repo.json"
     },
     "allVersions": [
       {
-        "AssemblyVersion": "4.6.2.14",
-        "DalamudApiLevel": "15",
-        "source": "https://love.puni.sh/ment.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "4.6.1.2",
-        "DalamudApiLevel": "15",
-        "source": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/main/pluginmaster.json",
-        "link": "OK",
-        "selected": false
-      },
-      {
-        "AssemblyVersion": "4.6.0.8",
+        "AssemblyVersion": "7.5.1.4",
         "DalamudApiLevel": 15,
         "source": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/repo.json",
         "link": "OK",
-        "selected": false
+        "selected": true
       },
       {
-        "AssemblyVersion": "4.2.6.3",
-        "DalamudApiLevel": "9",
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "AssemblyVersion": "7.5.0.0",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
         "link": "OK",
         "selected": false
       },
       {
-        "AssemblyVersion": "4.2.5.10",
-        "DalamudApiLevel": "9",
-        "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/cn.json",
+        "AssemblyVersion": "7.3.1.41",
+        "DalamudApiLevel": 14,
+        "source": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": false
+      },
+      {
+        "AssemblyVersion": "7.3.1.14",
+        "DalamudApiLevel": 14,
+        "source": "https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": false
+      },
+      {
+        "AssemblyVersion": "7.3.0.0",
+        "DalamudApiLevel": 13,
+        "source": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": false
+      },
+      {
+        "AssemblyVersion": "6.58.12.0",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
         "link": "OK",
         "selected": false
       }
@@ -191,367 +110,48 @@
     ]
   },
   {
-    "InternalName": "Avarice",
-    "Name": "Avarice",
-    "occurrences": 3,
-    "distinctVersions": 2,
+    "InternalName": "AutoRetainer",
+    "Name": "AutoRetainer",
+    "occurrences": 6,
+    "distinctVersions": 5,
     "picked": {
-      "AssemblyVersion": "2.2.0.13",
+      "AssemblyVersion": "4.6.2.14",
       "DalamudApiLevel": "15",
       "source": "https://love.puni.sh/ment.json"
     },
     "allVersions": [
       {
-        "AssemblyVersion": "2.2.0.13",
+        "AssemblyVersion": "4.6.2.14",
         "DalamudApiLevel": "15",
         "source": "https://love.puni.sh/ment.json",
         "link": "OK",
         "selected": true
       },
       {
-        "AssemblyVersion": "2.0.3.9",
-        "DalamudApiLevel": "9",
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "AssemblyVersion": "4.6.1.2",
+        "DalamudApiLevel": "15",
+        "source": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/main/pluginmaster.json",
         "link": "OK",
         "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "AutoHook",
-    "Name": "AutoHook",
-    "occurrences": 5,
-    "distinctVersions": 4,
-    "picked": {
-      "AssemblyVersion": "6.0.2.10",
-      "DalamudApiLevel": "15",
-      "source": "https://love.puni.sh/ment.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "6.0.2.10",
-        "DalamudApiLevel": "15",
-        "source": "https://love.puni.sh/ment.json",
-        "link": "OK",
-        "selected": true
       },
       {
-        "AssemblyVersion": "6.0.0.12",
+        "AssemblyVersion": "4.6.0.8",
         "DalamudApiLevel": 15,
         "source": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/repo.json",
         "link": "OK",
         "selected": false
       },
       {
-        "AssemblyVersion": "4.2.2.0",
+        "AssemblyVersion": "4.2.6.3",
         "DalamudApiLevel": "9",
         "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
         "link": "OK",
         "selected": false
       },
       {
-        "AssemblyVersion": "3.0.4.2",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "LazyLoot",
-    "Name": "LazyLoot",
-    "occurrences": 6,
-    "distinctVersions": 4,
-    "picked": {
-      "AssemblyVersion": "5.3.3.3",
-      "DalamudApiLevel": 15,
-      "source": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "5.3.3.3",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "5.3.2.5",
-        "DalamudApiLevel": 14,
-        "source": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
-        "link": "OK",
-        "selected": false
-      },
-      {
-        "AssemblyVersion": "5.3.2.2",
-        "DalamudApiLevel": 13,
-        "source": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
-        "link": "OK",
-        "selected": false
-      },
-      {
-        "AssemblyVersion": "5.2.0.5",
+        "AssemblyVersion": "4.2.5.10",
         "DalamudApiLevel": "9",
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "YesAlready",
-    "Name": "Yes Already",
-    "occurrences": 4,
-    "distinctVersions": 3,
-    "picked": {
-      "AssemblyVersion": "1.15.7.4",
-      "DalamudApiLevel": "15",
-      "source": "https://love.puni.sh/ment.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "1.15.7.4",
-        "DalamudApiLevel": "15",
-        "source": "https://love.puni.sh/ment.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "1.14.14.0",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.json",
-        "link": "OK",
-        "selected": false
-      },
-      {
-        "AssemblyVersion": "1.6.3.3",
-        "DalamudApiLevel": "9",
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "Marketbuddy",
-    "Name": "Marketbuddy",
-    "occurrences": 6,
-    "distinctVersions": 4,
-    "picked": {
-      "AssemblyVersion": "0.2.4.2",
-      "DalamudApiLevel": "15",
-      "source": "https://love.puni.sh/ment.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "0.2.4.2",
-        "DalamudApiLevel": "15",
-        "source": "https://love.puni.sh/ment.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "0.2.4.1",
-        "DalamudApiLevel": 14,
-        "source": "https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.json",
-        "link": "OK",
-        "selected": false
-      },
-      {
-        "AssemblyVersion": "0.2.3.0",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      },
-      {
-        "AssemblyVersion": "0.2.2.13",
-        "DalamudApiLevel": 7,
-        "source": "https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/PluginMaster.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "Artisan",
-    "Name": "Artisan",
-    "occurrences": 3,
-    "distinctVersions": 2,
-    "picked": {
-      "AssemblyVersion": "4.0.5.21",
-      "DalamudApiLevel": "15",
-      "source": "https://love.puni.sh/ment.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "4.0.5.21",
-        "DalamudApiLevel": "15",
-        "source": "https://love.puni.sh/ment.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "3.0.5.15",
-        "DalamudApiLevel": "9",
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "Splatoon",
-    "Name": "Splatoon",
-    "occurrences": 3,
-    "distinctVersions": 2,
-    "picked": {
-      "AssemblyVersion": "3.9.2.32",
-      "DalamudApiLevel": "15",
-      "source": "https://love.puni.sh/ment.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "3.9.2.32",
-        "DalamudApiLevel": "15",
-        "source": "https://love.puni.sh/ment.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "3.4.1.3",
-        "DalamudApiLevel": "9",
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "Saucy",
-    "Name": "Saucy",
-    "occurrences": 4,
-    "distinctVersions": 3,
-    "picked": {
-      "AssemblyVersion": "2.1.2.5",
-      "DalamudApiLevel": "15",
-      "source": "https://love.puni.sh/ment.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "2.1.2.5",
-        "DalamudApiLevel": "15",
-        "source": "https://love.puni.sh/ment.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "1.6.0.0",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/repo.json",
-        "link": "OK",
-        "selected": false
-      },
-      {
-        "AssemblyVersion": "1.3.0.6",
-        "DalamudApiLevel": "9",
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "Radar",
-    "Name": "Radar",
-    "occurrences": 4,
-    "distinctVersions": 3,
-    "picked": {
-      "AssemblyVersion": "2.0.5.0",
-      "DalamudApiLevel": 10,
-      "source": "https://raw.githubusercontent.com/emptyset0/Radar_akira0245/master/pluginmaster.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "2.0.5.0",
-        "DalamudApiLevel": 10,
-        "source": "https://raw.githubusercontent.com/emptyset0/Radar_akira0245/master/pluginmaster.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "2.0.3.1",
-        "DalamudApiLevel": 8,
-        "source": "https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/PluginMaster.json",
-        "link": "OK",
-        "selected": false
-      },
-      {
-        "AssemblyVersion": "3.0.0.0",
-        "DalamudApiLevel": 7,
-        "source": "https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/PluginMaster.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "DynamicBridge",
-    "Name": "DynamicBridge",
-    "occurrences": 6,
-    "distinctVersions": 2,
-    "picked": {
-      "AssemblyVersion": "1.0.8.9",
-      "DalamudApiLevel": 15,
-      "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "1.0.8.9",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "1.0.5.9",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "HuntTrainAssistant",
-    "Name": "HuntTrainAssistant",
-    "occurrences": 5,
-    "distinctVersions": 3,
-    "picked": {
-      "AssemblyVersion": "1.0.4.8",
-      "DalamudApiLevel": 15,
-      "source": "https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "1.0.4.8",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "1.0.2.15",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
-        "link": "OK",
-        "selected": false
-      },
-      {
-        "AssemblyVersion": "1.0.0.8",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/cn.json",
         "link": "OK",
         "selected": false
       }
@@ -606,303 +206,39 @@
     ]
   },
   {
-    "InternalName": "DSREyeLocator",
-    "Name": "DSR Toolbox",
-    "occurrences": 4,
-    "distinctVersions": 2,
-    "picked": {
-      "AssemblyVersion": "2.0.1.10",
-      "DalamudApiLevel": 15,
-      "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "2.0.1.10",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "2.0.1.2",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "WExtras",
-    "Name": "WeathermanExtras",
-    "occurrences": 4,
-    "distinctVersions": 2,
-    "picked": {
-      "AssemblyVersion": "1.0.0.10",
-      "DalamudApiLevel": 15,
-      "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "1.0.0.10",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "1.0.0.4",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "TextAdvance",
-    "Name": "TextAdvance",
+    "InternalName": "AutoHook",
+    "Name": "AutoHook",
     "occurrences": 5,
-    "distinctVersions": 2,
+    "distinctVersions": 4,
     "picked": {
-      "AssemblyVersion": "3.3.0.1",
-      "DalamudApiLevel": 15,
-      "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json"
+      "AssemblyVersion": "6.0.2.10",
+      "DalamudApiLevel": "15",
+      "source": "https://love.puni.sh/ment.json"
     },
     "allVersions": [
       {
-        "AssemblyVersion": "3.3.0.1",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
+        "AssemblyVersion": "6.0.2.10",
+        "DalamudApiLevel": "15",
+        "source": "https://love.puni.sh/ment.json",
         "link": "OK",
         "selected": true
       },
       {
-        "AssemblyVersion": "3.2.1.8",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "AntiAfkKick-Dalamud",
-    "Name": "AntiAfkKick",
-    "occurrences": 6,
-    "distinctVersions": 3,
-    "picked": {
-      "AssemblyVersion": "2.1.0.12",
-      "DalamudApiLevel": 15,
-      "source": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "2.1.0.12",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "2.1.0.11",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
-        "link": "OK",
-        "selected": false
-      },
-      {
-        "AssemblyVersion": "2.1.0.5",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "SelectString",
-    "Name": "SelectString",
-    "occurrences": 4,
-    "distinctVersions": 2,
-    "picked": {
-      "AssemblyVersion": "1.0.1.12",
-      "DalamudApiLevel": 15,
-      "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "1.0.1.12",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "1.0.0.6",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "Prioritizer",
-    "Name": "Prioritizer",
-    "occurrences": 4,
-    "distinctVersions": 2,
-    "picked": {
-      "AssemblyVersion": "2.0.1.4",
-      "DalamudApiLevel": 15,
-      "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "2.0.1.4",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "2.0.0.8",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "UnloadErrorFuckOff",
-    "Name": "UnloadErrorFuckOff",
-    "occurrences": 4,
-    "distinctVersions": 2,
-    "picked": {
-      "AssemblyVersion": "1.0.0.10",
-      "DalamudApiLevel": 15,
-      "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "1.0.0.10",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "1.0.0.4",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "Imagenation",
-    "Name": "Imagenation",
-    "occurrences": 4,
-    "distinctVersions": 2,
-    "picked": {
-      "AssemblyVersion": "1.0.0.11",
-      "DalamudApiLevel": 15,
-      "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "1.0.0.11",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "1.0.0.4",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "ObjectExplorer",
-    "Name": "ObjectExplorer",
-    "occurrences": 4,
-    "distinctVersions": 2,
-    "picked": {
-      "AssemblyVersion": "1.0.0.11",
-      "DalamudApiLevel": 15,
-      "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "1.0.0.11",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "1.0.0.3",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "AetheryteLinkInChat",
-    "Name": "Divination.AetheryteLinkInChat",
-    "occurrences": 6,
-    "distinctVersions": 6,
-    "picked": {
-      "AssemblyVersion": "7.5.1.4",
-      "DalamudApiLevel": 15,
-      "source": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/repo.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "7.5.1.4",
+        "AssemblyVersion": "6.0.0.12",
         "DalamudApiLevel": 15,
         "source": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/repo.json",
         "link": "OK",
-        "selected": true
+        "selected": false
       },
       {
-        "AssemblyVersion": "7.5.0.0",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
+        "AssemblyVersion": "4.2.2.0",
+        "DalamudApiLevel": "9",
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
         "link": "OK",
         "selected": false
       },
       {
-        "AssemblyVersion": "7.3.1.41",
-        "DalamudApiLevel": 14,
-        "source": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
-        "link": "OK",
-        "selected": false
-      },
-      {
-        "AssemblyVersion": "7.3.1.14",
-        "DalamudApiLevel": 14,
-        "source": "https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.json",
-        "link": "OK",
-        "selected": false
-      },
-      {
-        "AssemblyVersion": "7.3.0.0",
-        "DalamudApiLevel": 13,
-        "source": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
-        "link": "OK",
-        "selected": false
-      },
-      {
-        "AssemblyVersion": "6.58.12.0",
+        "AssemblyVersion": "3.0.4.2",
         "DalamudApiLevel": 9,
         "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
         "link": "OK",
@@ -952,68 +288,82 @@
     ]
   },
   {
-    "InternalName": "BossModReborn",
-    "Name": "BossMod Reborn",
+    "InternalName": "BossMod",
+    "Name": "Boss Mod",
     "occurrences": 5,
-    "distinctVersions": 3,
+    "distinctVersions": 4,
     "picked": {
-      "AssemblyVersion": "7.5.7.2",
-      "DalamudApiLevel": 15,
-      "source": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json"
+      "AssemblyVersion": "7.5.7.9",
+      "DalamudApiLevel": "15",
+      "source": "https://puni.sh/api/repository/veyn"
     },
     "allVersions": [
       {
-        "AssemblyVersion": "7.5.7.2",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
+        "AssemblyVersion": "7.5.7.9",
+        "DalamudApiLevel": "15",
+        "source": "https://puni.sh/api/repository/veyn",
         "link": "OK",
         "selected": true
       },
       {
-        "AssemblyVersion": "7.4.5.18",
-        "DalamudApiLevel": 14,
-        "source": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
+        "AssemblyVersion": "7.5.7.4",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/pluginmaster_gh.json",
         "link": "OK",
         "selected": false
       },
       {
-        "AssemblyVersion": "7.3.5.27",
-        "DalamudApiLevel": 13,
-        "source": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
+        "AssemblyVersion": "0.0.0.164",
+        "DalamudApiLevel": "9",
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      },
+      {
+        "AssemblyVersion": "0.0.0.122",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
         "link": "OK",
         "selected": false
       }
     ]
   },
   {
-    "InternalName": "FuckAnimationLock",
-    "Name": "FuckAnimationLock",
-    "occurrences": 3,
-    "distinctVersions": 3,
+    "InternalName": "LazyLoot",
+    "Name": "LazyLoot",
+    "occurrences": 6,
+    "distinctVersions": 4,
     "picked": {
-      "AssemblyVersion": "3.0.17.1",
+      "AssemblyVersion": "5.3.3.3",
       "DalamudApiLevel": 15,
       "source": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json"
     },
     "allVersions": [
       {
-        "AssemblyVersion": "3.0.17.1",
+        "AssemblyVersion": "5.3.3.3",
         "DalamudApiLevel": 15,
         "source": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
         "link": "OK",
         "selected": true
       },
       {
-        "AssemblyVersion": "3.0.14.6",
+        "AssemblyVersion": "5.3.2.5",
         "DalamudApiLevel": 14,
         "source": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
         "link": "OK",
         "selected": false
       },
       {
-        "AssemblyVersion": "3.0.13.0",
+        "AssemblyVersion": "5.3.2.2",
         "DalamudApiLevel": 13,
         "source": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": false
+      },
+      {
+        "AssemblyVersion": "5.2.0.5",
+        "DalamudApiLevel": "9",
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
         "link": "OK",
         "selected": false
       }
@@ -1055,6 +405,394 @@
         "AssemblyVersion": "0.0.0.21",
         "DalamudApiLevel": 9,
         "source": "https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "Marketbuddy",
+    "Name": "Marketbuddy",
+    "occurrences": 6,
+    "distinctVersions": 4,
+    "picked": {
+      "AssemblyVersion": "0.2.4.2",
+      "DalamudApiLevel": "15",
+      "source": "https://love.puni.sh/ment.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "0.2.4.2",
+        "DalamudApiLevel": "15",
+        "source": "https://love.puni.sh/ment.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "0.2.4.1",
+        "DalamudApiLevel": 14,
+        "source": "https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": false
+      },
+      {
+        "AssemblyVersion": "0.2.3.0",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      },
+      {
+        "AssemblyVersion": "0.2.2.13",
+        "DalamudApiLevel": 7,
+        "source": "https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/PluginMaster.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "MidiBard2",
+    "Name": "MidiBard 2",
+    "occurrences": 4,
+    "distinctVersions": 4,
+    "picked": {
+      "AssemblyVersion": "3.2.5.6",
+      "DalamudApiLevel": 15,
+      "source": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/pluginmaster_gh.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "3.2.5.6",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/pluginmaster_gh.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "3.2.4.0",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/repo.json",
+        "link": "OK",
+        "selected": false
+      },
+      {
+        "AssemblyVersion": "2.5.5.0",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      },
+      {
+        "AssemblyVersion": "2.2.3.1",
+        "DalamudApiLevel": 7,
+        "source": "https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/PluginMaster.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "AntiAfkKick-Dalamud",
+    "Name": "AntiAfkKick",
+    "occurrences": 6,
+    "distinctVersions": 3,
+    "picked": {
+      "AssemblyVersion": "2.1.0.12",
+      "DalamudApiLevel": 15,
+      "source": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "2.1.0.12",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "2.1.0.11",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": false
+      },
+      {
+        "AssemblyVersion": "2.1.0.5",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "BDTHPlugin",
+    "Name": "Burning Down the House",
+    "occurrences": 3,
+    "distinctVersions": 3,
+    "picked": {
+      "AssemblyVersion": "1.7.3",
+      "DalamudApiLevel": 15,
+      "source": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "1.7.3",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "1.6.3",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      },
+      {
+        "AssemblyVersion": "1.5.7.2",
+        "DalamudApiLevel": 7,
+        "source": "https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/PluginMaster.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "BossModReborn",
+    "Name": "BossMod Reborn",
+    "occurrences": 5,
+    "distinctVersions": 3,
+    "picked": {
+      "AssemblyVersion": "7.5.7.2",
+      "DalamudApiLevel": 15,
+      "source": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "7.5.7.2",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "7.4.5.18",
+        "DalamudApiLevel": 14,
+        "source": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": false
+      },
+      {
+        "AssemblyVersion": "7.3.5.27",
+        "DalamudApiLevel": 13,
+        "source": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "DailyRoutines",
+    "Name": "Daily Routines",
+    "occurrences": 3,
+    "distinctVersions": 3,
+    "picked": {
+      "AssemblyVersion": "2.2.5.1",
+      "DalamudApiLevel": 15,
+      "source": "https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "2.2.5.1",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "2.0.4.4",
+        "DalamudApiLevel": 14,
+        "source": "https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": false
+      },
+      {
+        "AssemblyVersion": "1.9.3.3",
+        "DalamudApiLevel": 13,
+        "source": "https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "FFLogsViewer",
+    "Name": "FFlogs Viewer CN",
+    "occurrences": 3,
+    "distinctVersions": 3,
+    "picked": {
+      "AssemblyVersion": "2.5.3.5",
+      "DalamudApiLevel": 15,
+      "source": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/repo.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "2.5.3.5",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/repo.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "2.4.1.0",
+        "DalamudApiLevel": 14,
+        "source": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/pluginmaster_gh.json",
+        "link": "OK",
+        "selected": false
+      },
+      {
+        "AssemblyVersion": "2.1.6.2",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "FuckAnimationLock",
+    "Name": "FuckAnimationLock",
+    "occurrences": 3,
+    "distinctVersions": 3,
+    "picked": {
+      "AssemblyVersion": "3.0.17.1",
+      "DalamudApiLevel": 15,
+      "source": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "3.0.17.1",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "3.0.14.6",
+        "DalamudApiLevel": 14,
+        "source": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": false
+      },
+      {
+        "AssemblyVersion": "3.0.13.0",
+        "DalamudApiLevel": 13,
+        "source": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "HuntTrainAssistant",
+    "Name": "HuntTrainAssistant",
+    "occurrences": 5,
+    "distinctVersions": 3,
+    "picked": {
+      "AssemblyVersion": "1.0.4.8",
+      "DalamudApiLevel": 15,
+      "source": "https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "1.0.4.8",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "1.0.2.15",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": false
+      },
+      {
+        "AssemblyVersion": "1.0.0.8",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "IINACT",
+    "Name": "IINACT",
+    "occurrences": 4,
+    "distinctVersions": 3,
+    "picked": {
+      "AssemblyVersion": "2.10.3.11",
+      "DalamudApiLevel": 15,
+      "source": "https://github.com/MeowZWR/DalamudPlugin/raw/main/pants.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "2.10.3.11",
+        "DalamudApiLevel": 15,
+        "source": "https://github.com/MeowZWR/DalamudPlugin/raw/main/pants.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "2.1.4.3",
+        "DalamudApiLevel": 14,
+        "source": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json",
+        "link": "OK",
+        "selected": false
+      },
+      {
+        "AssemblyVersion": "2.5.1.0",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "NecroLens",
+    "Name": "NecroLens",
+    "occurrences": 5,
+    "distinctVersions": 3,
+    "picked": {
+      "AssemblyVersion": "1.0.8.24",
+      "DalamudApiLevel": 15,
+      "source": "https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "1.0.8.24",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "1.0.8.12",
+        "DalamudApiLevel": "15",
+        "source": "https://puni.sh/api/repository/jukka",
+        "link": "OK",
+        "selected": false
+      },
+      {
+        "AssemblyVersion": "1.0.7.4",
+        "DalamudApiLevel": "9",
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
         "link": "OK",
         "selected": false
       }
@@ -1129,407 +867,6 @@
     ]
   },
   {
-    "InternalName": "SSMinionBoradcast",
-    "Name": "SSMinionBoradcast",
-    "occurrences": 3,
-    "distinctVersions": 3,
-    "picked": {
-      "AssemblyVersion": "7.5.0.3",
-      "DalamudApiLevel": 15,
-      "source": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "7.5.0.3",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "7.4.0.0",
-        "DalamudApiLevel": 14,
-        "source": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
-        "link": "OK",
-        "selected": false
-      },
-      {
-        "AssemblyVersion": "1.0.0.0",
-        "DalamudApiLevel": 13,
-        "source": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "DailyRoutines",
-    "Name": "Daily Routines",
-    "occurrences": 3,
-    "distinctVersions": 3,
-    "picked": {
-      "AssemblyVersion": "2.2.5.1",
-      "DalamudApiLevel": 15,
-      "source": "https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "2.2.5.1",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "2.0.4.4",
-        "DalamudApiLevel": 14,
-        "source": "https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json",
-        "link": "OK",
-        "selected": false
-      },
-      {
-        "AssemblyVersion": "1.9.3.3",
-        "DalamudApiLevel": 13,
-        "source": "https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "vnavmesh",
-    "Name": "vnavmesh",
-    "occurrences": 4,
-    "distinctVersions": 3,
-    "picked": {
-      "AssemblyVersion": "1.2.3.14",
-      "DalamudApiLevel": "15",
-      "source": "https://puni.sh/api/repository/veyn"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "1.2.3.14",
-        "DalamudApiLevel": "15",
-        "source": "https://puni.sh/api/repository/veyn",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "0.8.6.0",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json",
-        "link": "OK",
-        "selected": false
-      },
-      {
-        "AssemblyVersion": "0.0.0.36",
-        "DalamudApiLevel": "9",
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "GatherBuddyReborn",
-    "Name": "GatherBuddy Reborn",
-    "occurrences": 2,
-    "distinctVersions": 2,
-    "picked": {
-      "AssemblyVersion": "7.5.6.1",
-      "DalamudApiLevel": 15,
-      "source": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "7.5.6.1",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "7.5.0.5",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "visland",
-    "Name": "V(ery) Island",
-    "occurrences": 4,
-    "distinctVersions": 3,
-    "picked": {
-      "AssemblyVersion": "0.0.0.151",
-      "DalamudApiLevel": "15",
-      "source": "https://puni.sh/api/repository/veyn"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "0.0.0.151",
-        "DalamudApiLevel": "15",
-        "source": "https://puni.sh/api/repository/veyn",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "0.0.0.88",
-        "DalamudApiLevel": "9",
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      },
-      {
-        "AssemblyVersion": "0.0.0.16",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "vfaux",
-    "Name": "Easier Faux Hollows",
-    "occurrences": 4,
-    "distinctVersions": 3,
-    "picked": {
-      "AssemblyVersion": "0.0.0.12",
-      "DalamudApiLevel": "15",
-      "source": "https://puni.sh/api/repository/veyn"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "0.0.0.12",
-        "DalamudApiLevel": "15",
-        "source": "https://puni.sh/api/repository/veyn",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "0.0.0.5",
-        "DalamudApiLevel": "9",
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      },
-      {
-        "AssemblyVersion": "0.0.0.4",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "BossMod",
-    "Name": "Boss Mod",
-    "occurrences": 5,
-    "distinctVersions": 3,
-    "picked": {
-      "AssemblyVersion": "7.5.7.4",
-      "DalamudApiLevel": "15",
-      "source": "https://puni.sh/api/repository/veyn"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "7.5.7.4",
-        "DalamudApiLevel": "15",
-        "source": "https://puni.sh/api/repository/veyn",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "0.0.0.164",
-        "DalamudApiLevel": "9",
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      },
-      {
-        "AssemblyVersion": "0.0.0.122",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "vfallguy",
-    "Name": "vfallguy",
-    "occurrences": 4,
-    "distinctVersions": 3,
-    "picked": {
-      "AssemblyVersion": "0.0.0.13",
-      "DalamudApiLevel": "15",
-      "source": "https://puni.sh/api/repository/veyn"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "0.0.0.13",
-        "DalamudApiLevel": "15",
-        "source": "https://puni.sh/api/repository/veyn",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "0.0.1.6",
-        "DalamudApiLevel": "10",
-        "source": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/refs/heads/main/plugin.json",
-        "link": "OK",
-        "selected": false
-      },
-      {
-        "AssemblyVersion": "0.0.0.6",
-        "DalamudApiLevel": "9",
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "HaselTweaks",
-    "Name": "HaselTweaks",
-    "occurrences": 2,
-    "distinctVersions": 2,
-    "picked": {
-      "AssemblyVersion": "50.0.2.1",
-      "DalamudApiLevel": 15,
-      "source": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/repo.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "50.0.2.1",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/repo.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "23.0.2",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "MidiBard2",
-    "Name": "MidiBard 2",
-    "occurrences": 4,
-    "distinctVersions": 4,
-    "picked": {
-      "AssemblyVersion": "3.2.5.6",
-      "DalamudApiLevel": 15,
-      "source": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/pluginmaster_gh.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "3.2.5.6",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/pluginmaster_gh.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "3.2.4.0",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/repo.json",
-        "link": "OK",
-        "selected": false
-      },
-      {
-        "AssemblyVersion": "2.5.5.0",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      },
-      {
-        "AssemblyVersion": "2.2.3.1",
-        "DalamudApiLevel": 7,
-        "source": "https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/PluginMaster.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "FFLogsViewer",
-    "Name": "FFlogs Viewer CN",
-    "occurrences": 3,
-    "distinctVersions": 3,
-    "picked": {
-      "AssemblyVersion": "2.5.3.5",
-      "DalamudApiLevel": 15,
-      "source": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/repo.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "2.5.3.5",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/repo.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "2.4.1.0",
-        "DalamudApiLevel": 14,
-        "source": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/pluginmaster_gh.json",
-        "link": "OK",
-        "selected": false
-      },
-      {
-        "AssemblyVersion": "2.1.6.2",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "BDTHPlugin",
-    "Name": "Burning Down the House",
-    "occurrences": 3,
-    "distinctVersions": 3,
-    "picked": {
-      "AssemblyVersion": "1.7.3",
-      "DalamudApiLevel": 15,
-      "source": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "1.7.3",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "1.6.3",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      },
-      {
-        "AssemblyVersion": "1.5.7.2",
-        "DalamudApiLevel": 7,
-        "source": "https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/PluginMaster.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
     "InternalName": "Penumbra",
     "Name": "Penumbra",
     "occurrences": 3,
@@ -1564,54 +901,34 @@
     ]
   },
   {
-    "InternalName": "ActionTimelineEx",
-    "Name": "ActionTimelineEx",
-    "occurrences": 2,
-    "distinctVersions": 2,
+    "InternalName": "Radar",
+    "Name": "Radar",
+    "occurrences": 4,
+    "distinctVersions": 3,
     "picked": {
-      "AssemblyVersion": "1.4.15",
+      "AssemblyVersion": "2.0.5.0",
       "DalamudApiLevel": 10,
-      "source": "https://raw.githubusercontent.com/ArchiDog1998/DalamudPlugins/main/pluginmaster.json"
+      "source": "https://raw.githubusercontent.com/emptyset0/Radar_akira0245/master/pluginmaster.json"
     },
     "allVersions": [
       {
-        "AssemblyVersion": "1.4.15",
+        "AssemblyVersion": "2.0.5.0",
         "DalamudApiLevel": 10,
-        "source": "https://raw.githubusercontent.com/ArchiDog1998/DalamudPlugins/main/pluginmaster.json",
+        "source": "https://raw.githubusercontent.com/emptyset0/Radar_akira0245/master/pluginmaster.json",
         "link": "OK",
         "selected": true
       },
       {
-        "AssemblyVersion": "1.3.7.4",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "AssemblyVersion": "2.0.3.1",
+        "DalamudApiLevel": 8,
+        "source": "https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/PluginMaster.json",
         "link": "OK",
         "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "FakeName",
-    "Name": "Fake Name",
-    "occurrences": 2,
-    "distinctVersions": 2,
-    "picked": {
-      "AssemblyVersion": "1.2.2",
-      "DalamudApiLevel": 10,
-      "source": "https://raw.githubusercontent.com/ArchiDog1998/DalamudPlugins/main/pluginmaster.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "1.2.2",
-        "DalamudApiLevel": 10,
-        "source": "https://raw.githubusercontent.com/ArchiDog1998/DalamudPlugins/main/pluginmaster.json",
-        "link": "OK",
-        "selected": true
       },
       {
-        "AssemblyVersion": "1.0.0.12",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "AssemblyVersion": "3.0.0.0",
+        "DalamudApiLevel": 7,
+        "source": "https://raw.githubusercontent.com/gamous/DalamudPluginsCN-Dev/main/PluginMaster.json",
         "link": "OK",
         "selected": false
       }
@@ -1652,492 +969,33 @@
     ]
   },
   {
-    "InternalName": "NecroLens",
-    "Name": "NecroLens",
-    "occurrences": 5,
+    "InternalName": "Saucy",
+    "Name": "Saucy",
+    "occurrences": 4,
     "distinctVersions": 3,
     "picked": {
-      "AssemblyVersion": "1.0.8.24",
-      "DalamudApiLevel": 15,
-      "source": "https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.json"
+      "AssemblyVersion": "2.1.2.5",
+      "DalamudApiLevel": "15",
+      "source": "https://love.puni.sh/ment.json"
     },
     "allVersions": [
       {
-        "AssemblyVersion": "1.0.8.24",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "1.0.8.12",
+        "AssemblyVersion": "2.1.2.5",
         "DalamudApiLevel": "15",
-        "source": "https://puni.sh/api/repository/jukka",
+        "source": "https://love.puni.sh/ment.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "1.6.0.0",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/repo.json",
         "link": "OK",
         "selected": false
       },
       {
-        "AssemblyVersion": "1.0.7.4",
+        "AssemblyVersion": "1.3.0.6",
         "DalamudApiLevel": "9",
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "HoardFarm",
-    "Name": "Hoard Farm - DETECTABLE",
-    "occurrences": 2,
-    "distinctVersions": 2,
-    "picked": {
-      "AssemblyVersion": "1.6.0.2",
-      "DalamudApiLevel": "14",
-      "source": "https://puni.sh/api/repository/jukka"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "1.6.0.2",
-        "DalamudApiLevel": "14",
-        "source": "https://puni.sh/api/repository/jukka",
-        "link": "EMPTY",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "1.5.2.6",
-        "DalamudApiLevel": "9",
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "HTTP404",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "OOBlugin",
-    "Name": "OOBlugin",
-    "occurrences": 3,
-    "distinctVersions": 2,
-    "picked": {
-      "AssemblyVersion": "1.1.2.11",
-      "DalamudApiLevel": 9,
-      "source": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "1.1.2.11",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "1.1.2.10",
-        "DalamudApiLevel": 8,
-        "source": "https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "Cammy",
-    "Name": "Cammy",
-    "occurrences": 3,
-    "distinctVersions": 2,
-    "picked": {
-      "AssemblyVersion": "2.1.1.2",
-      "DalamudApiLevel": 15,
-      "source": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "2.1.1.2",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "2.1.0.8",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "ReAction",
-    "Name": "ReAction",
-    "occurrences": 2,
-    "distinctVersions": 2,
-    "picked": {
-      "AssemblyVersion": "1.3.5.1",
-      "DalamudApiLevel": 15,
-      "source": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "1.3.5.1",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "1.3.3.7",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "NoClippy",
-    "Name": "NoClippy",
-    "occurrences": 2,
-    "distinctVersions": 2,
-    "picked": {
-      "AssemblyVersion": "0.5.0.24",
-      "DalamudApiLevel": 15,
-      "source": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "0.5.0.24",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "0.5.0.14",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "DoubleWeaver",
-    "Name": "Double Weaver",
-    "occurrences": 3,
-    "distinctVersions": 2,
-    "picked": {
-      "AssemblyVersion": "1.0.8.0",
-      "DalamudApiLevel": 11,
-      "source": "https://raw.githubusercontent.com/Bluefissure/DalamudPlugins/Bluefissure/pluginmaster.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "1.0.8.0",
-        "DalamudApiLevel": 11,
-        "source": "https://raw.githubusercontent.com/Bluefissure/DalamudPlugins/Bluefissure/pluginmaster.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "1.0.6.2",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "HousingPos",
-    "Name": "HousingPos",
-    "occurrences": 3,
-    "distinctVersions": 2,
-    "picked": {
-      "AssemblyVersion": "1.3.2.0",
-      "DalamudApiLevel": 11,
-      "source": "https://raw.githubusercontent.com/Bluefissure/DalamudPlugins/Bluefissure/pluginmaster.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "1.3.2.0",
-        "DalamudApiLevel": 11,
-        "source": "https://raw.githubusercontent.com/Bluefissure/DalamudPlugins/Bluefissure/pluginmaster.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "1.3.1.1",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "Inviter",
-    "Name": "Inviter",
-    "occurrences": 2,
-    "distinctVersions": 2,
-    "picked": {
-      "AssemblyVersion": "1.1.4.0",
-      "DalamudApiLevel": 12,
-      "source": "https://raw.githubusercontent.com/Bluefissure/DalamudPlugins/Bluefissure/pluginmaster.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "1.1.4.0",
-        "DalamudApiLevel": 12,
-        "source": "https://raw.githubusercontent.com/Bluefissure/DalamudPlugins/Bluefissure/pluginmaster.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "1.1.1.1",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "LMeter",
-    "Name": "LMeter",
-    "occurrences": 2,
-    "distinctVersions": 2,
-    "picked": {
-      "AssemblyVersion": "0.4.4.0",
-      "DalamudApiLevel": 15,
-      "source": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/pluginmaster_gh.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "0.4.4.0",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/pluginmaster_gh.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "0.3.0.1",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "AutoLogin",
-    "Name": "Auto Login",
-    "occurrences": 3,
-    "distinctVersions": 2,
-    "picked": {
-      "AssemblyVersion": "1.3.1.4",
-      "DalamudApiLevel": 15,
-      "source": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/pluginmaster_gh.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "1.3.1.4",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/pluginmaster_gh.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "1.0.0.5",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "MakePlacePlugin",
-    "Name": "MakePlace Plugin",
-    "occurrences": 2,
-    "distinctVersions": 2,
-    "picked": {
-      "AssemblyVersion": "3.7.3",
-      "DalamudApiLevel": 11,
-      "source": "https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/MakePlacePlugin.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "3.7.3",
-        "DalamudApiLevel": 11,
-        "source": "https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/MakePlacePlugin.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "3.5.0",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "Glamourer",
-    "Name": "Glamourer",
-    "occurrences": 2,
-    "distinctVersions": 2,
-    "picked": {
-      "AssemblyVersion": "1.7.1.4",
-      "DalamudApiLevel": 15,
-      "source": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "1.7.1.4",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "1.2.3.2",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "CustomizePlus",
-    "Name": "Customize+",
-    "occurrences": 2,
-    "distinctVersions": 2,
-    "picked": {
-      "AssemblyVersion": "2.2.1.3",
-      "DalamudApiLevel": 15,
-      "source": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "2.2.1.3",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "2.0.4.0",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "SimpleHeels",
-    "Name": "Simple Heels",
-    "occurrences": 2,
-    "distinctVersions": 2,
-    "picked": {
-      "AssemblyVersion": "0.11.1.12",
-      "DalamudApiLevel": 15,
-      "source": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "0.11.1.12",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "0.9.3.3",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "HTTP404",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "Ktisis",
-    "Name": "Ktisis",
-    "occurrences": 2,
-    "distinctVersions": 2,
-    "picked": {
-      "AssemblyVersion": "0.4.1.2",
-      "DalamudApiLevel": 15,
-      "source": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "0.4.1.2",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "0.2.22",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "Brio",
-    "Name": "Brio",
-    "occurrences": 2,
-    "distinctVersions": 2,
-    "picked": {
-      "AssemblyVersion": "0.8.0.12",
-      "DalamudApiLevel": 15,
-      "source": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "0.8.0.12",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "0.3.1.6",
-        "DalamudApiLevel": 9,
-        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
-        "link": "OK",
-        "selected": false
-      }
-    ]
-  },
-  {
-    "InternalName": "Moodles",
-    "Name": "Moodles",
-    "occurrences": 2,
-    "distinctVersions": 2,
-    "picked": {
-      "AssemblyVersion": "2.1.0.1",
-      "DalamudApiLevel": 15,
-      "source": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json"
-    },
-    "allVersions": [
-      {
-        "AssemblyVersion": "2.1.0.1",
-        "DalamudApiLevel": 15,
-        "source": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json",
-        "link": "OK",
-        "selected": true
-      },
-      {
-        "AssemblyVersion": "1.0.0.15",
-        "DalamudApiLevel": 9,
         "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
         "link": "OK",
         "selected": false
@@ -2179,6 +1037,291 @@
     ]
   },
   {
+    "InternalName": "SSMinionBoradcast",
+    "Name": "SSMinionBoradcast",
+    "occurrences": 3,
+    "distinctVersions": 3,
+    "picked": {
+      "AssemblyVersion": "7.5.0.3",
+      "DalamudApiLevel": 15,
+      "source": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "7.5.0.3",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "7.4.0.0",
+        "DalamudApiLevel": 14,
+        "source": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": false
+      },
+      {
+        "AssemblyVersion": "1.0.0.0",
+        "DalamudApiLevel": 13,
+        "source": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "vfallguy",
+    "Name": "vfallguy",
+    "occurrences": 4,
+    "distinctVersions": 3,
+    "picked": {
+      "AssemblyVersion": "0.0.0.13",
+      "DalamudApiLevel": "15",
+      "source": "https://puni.sh/api/repository/veyn"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "0.0.0.13",
+        "DalamudApiLevel": "15",
+        "source": "https://puni.sh/api/repository/veyn",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "0.0.1.6",
+        "DalamudApiLevel": "10",
+        "source": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/refs/heads/main/plugin.json",
+        "link": "OK",
+        "selected": false
+      },
+      {
+        "AssemblyVersion": "0.0.0.6",
+        "DalamudApiLevel": "9",
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "vfaux",
+    "Name": "Easier Faux Hollows",
+    "occurrences": 4,
+    "distinctVersions": 3,
+    "picked": {
+      "AssemblyVersion": "0.0.0.12",
+      "DalamudApiLevel": "15",
+      "source": "https://puni.sh/api/repository/veyn"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "0.0.0.12",
+        "DalamudApiLevel": "15",
+        "source": "https://puni.sh/api/repository/veyn",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "0.0.0.5",
+        "DalamudApiLevel": "9",
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      },
+      {
+        "AssemblyVersion": "0.0.0.4",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "visland",
+    "Name": "V(ery) Island",
+    "occurrences": 4,
+    "distinctVersions": 3,
+    "picked": {
+      "AssemblyVersion": "0.0.0.151",
+      "DalamudApiLevel": "15",
+      "source": "https://puni.sh/api/repository/veyn"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "0.0.0.151",
+        "DalamudApiLevel": "15",
+        "source": "https://puni.sh/api/repository/veyn",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "0.0.0.88",
+        "DalamudApiLevel": "9",
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      },
+      {
+        "AssemblyVersion": "0.0.0.16",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "vnavmesh",
+    "Name": "vnavmesh",
+    "occurrences": 4,
+    "distinctVersions": 3,
+    "picked": {
+      "AssemblyVersion": "1.2.3.14",
+      "DalamudApiLevel": "15",
+      "source": "https://puni.sh/api/repository/veyn"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "1.2.3.14",
+        "DalamudApiLevel": "15",
+        "source": "https://puni.sh/api/repository/veyn",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "0.8.6.0",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": false
+      },
+      {
+        "AssemblyVersion": "0.0.0.36",
+        "DalamudApiLevel": "9",
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "YesAlready",
+    "Name": "Yes Already",
+    "occurrences": 4,
+    "distinctVersions": 3,
+    "picked": {
+      "AssemblyVersion": "1.15.7.4",
+      "DalamudApiLevel": "15",
+      "source": "https://love.puni.sh/ment.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "1.15.7.4",
+        "DalamudApiLevel": "15",
+        "source": "https://love.puni.sh/ment.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "1.14.14.0",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": false
+      },
+      {
+        "AssemblyVersion": "1.6.3.3",
+        "DalamudApiLevel": "9",
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "ActionTimelineEx",
+    "Name": "ActionTimelineEx",
+    "occurrences": 2,
+    "distinctVersions": 2,
+    "picked": {
+      "AssemblyVersion": "1.4.15",
+      "DalamudApiLevel": 10,
+      "source": "https://raw.githubusercontent.com/ArchiDog1998/DalamudPlugins/main/pluginmaster.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "1.4.15",
+        "DalamudApiLevel": 10,
+        "source": "https://raw.githubusercontent.com/ArchiDog1998/DalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "1.3.7.4",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "Artisan",
+    "Name": "Artisan",
+    "occurrences": 3,
+    "distinctVersions": 2,
+    "picked": {
+      "AssemblyVersion": "4.0.5.21",
+      "DalamudApiLevel": "15",
+      "source": "https://love.puni.sh/ment.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "4.0.5.21",
+        "DalamudApiLevel": "15",
+        "source": "https://love.puni.sh/ment.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "3.0.5.15",
+        "DalamudApiLevel": "9",
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "AutoLogin",
+    "Name": "Auto Login",
+    "occurrences": 3,
+    "distinctVersions": 2,
+    "picked": {
+      "AssemblyVersion": "1.3.1.4",
+      "DalamudApiLevel": 15,
+      "source": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/pluginmaster_gh.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "1.3.1.4",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/pluginmaster_gh.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "1.0.0.5",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
     "InternalName": "Automaton",
     "Name": "CBT 🐎",
     "occurrences": 2,
@@ -2199,6 +1342,357 @@
       {
         "AssemblyVersion": "69.12.0.19",
         "DalamudApiLevel": "9",
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "Avarice",
+    "Name": "Avarice",
+    "occurrences": 3,
+    "distinctVersions": 2,
+    "picked": {
+      "AssemblyVersion": "2.2.0.13",
+      "DalamudApiLevel": "15",
+      "source": "https://love.puni.sh/ment.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "2.2.0.13",
+        "DalamudApiLevel": "15",
+        "source": "https://love.puni.sh/ment.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "2.0.3.9",
+        "DalamudApiLevel": "9",
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "Brio",
+    "Name": "Brio",
+    "occurrences": 2,
+    "distinctVersions": 2,
+    "picked": {
+      "AssemblyVersion": "0.8.0.12",
+      "DalamudApiLevel": 15,
+      "source": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "0.8.0.12",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "0.3.1.6",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "Cammy",
+    "Name": "Cammy",
+    "occurrences": 3,
+    "distinctVersions": 2,
+    "picked": {
+      "AssemblyVersion": "2.1.1.2",
+      "DalamudApiLevel": 15,
+      "source": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "2.1.1.2",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "2.1.0.8",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "CustomizePlus",
+    "Name": "Customize+",
+    "occurrences": 2,
+    "distinctVersions": 2,
+    "picked": {
+      "AssemblyVersion": "2.2.1.3",
+      "DalamudApiLevel": 15,
+      "source": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "2.2.1.3",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "2.0.4.0",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "DoubleWeaver",
+    "Name": "Double Weaver",
+    "occurrences": 3,
+    "distinctVersions": 2,
+    "picked": {
+      "AssemblyVersion": "1.0.8.0",
+      "DalamudApiLevel": 11,
+      "source": "https://raw.githubusercontent.com/Bluefissure/DalamudPlugins/Bluefissure/pluginmaster.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "1.0.8.0",
+        "DalamudApiLevel": 11,
+        "source": "https://raw.githubusercontent.com/Bluefissure/DalamudPlugins/Bluefissure/pluginmaster.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "1.0.6.2",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "DSREyeLocator",
+    "Name": "DSR Toolbox",
+    "occurrences": 4,
+    "distinctVersions": 2,
+    "picked": {
+      "AssemblyVersion": "2.0.1.10",
+      "DalamudApiLevel": 15,
+      "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "2.0.1.10",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "2.0.1.2",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "DynamicBridge",
+    "Name": "DynamicBridge",
+    "occurrences": 6,
+    "distinctVersions": 2,
+    "picked": {
+      "AssemblyVersion": "1.0.8.9",
+      "DalamudApiLevel": 15,
+      "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "1.0.8.9",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "1.0.5.9",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "FakeName",
+    "Name": "Fake Name",
+    "occurrences": 2,
+    "distinctVersions": 2,
+    "picked": {
+      "AssemblyVersion": "1.2.2",
+      "DalamudApiLevel": 10,
+      "source": "https://raw.githubusercontent.com/ArchiDog1998/DalamudPlugins/main/pluginmaster.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "1.2.2",
+        "DalamudApiLevel": 10,
+        "source": "https://raw.githubusercontent.com/ArchiDog1998/DalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "1.0.0.12",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "GatherBuddyReborn",
+    "Name": "GatherBuddy Reborn",
+    "occurrences": 2,
+    "distinctVersions": 2,
+    "picked": {
+      "AssemblyVersion": "7.5.6.1",
+      "DalamudApiLevel": 15,
+      "source": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "7.5.6.1",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "7.5.0.5",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "Glamourer",
+    "Name": "Glamourer",
+    "occurrences": 2,
+    "distinctVersions": 2,
+    "picked": {
+      "AssemblyVersion": "1.7.1.4",
+      "DalamudApiLevel": 15,
+      "source": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "1.7.1.4",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "1.2.3.2",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "HaselTweaks",
+    "Name": "HaselTweaks",
+    "occurrences": 2,
+    "distinctVersions": 2,
+    "picked": {
+      "AssemblyVersion": "50.0.2.1",
+      "DalamudApiLevel": 15,
+      "source": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/repo.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "50.0.2.1",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/repo.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "23.0.2",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "HoardFarm",
+    "Name": "Hoard Farm - DETECTABLE",
+    "occurrences": 2,
+    "distinctVersions": 2,
+    "picked": {
+      "AssemblyVersion": "1.6.0.2",
+      "DalamudApiLevel": "14",
+      "source": "https://puni.sh/api/repository/jukka"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "1.6.0.2",
+        "DalamudApiLevel": "14",
+        "source": "https://puni.sh/api/repository/jukka",
+        "link": "EMPTY",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "1.5.2.6",
+        "DalamudApiLevel": "9",
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "HTTP404",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "HousingPos",
+    "Name": "HousingPos",
+    "occurrences": 3,
+    "distinctVersions": 2,
+    "picked": {
+      "AssemblyVersion": "1.3.2.0",
+      "DalamudApiLevel": 11,
+      "source": "https://raw.githubusercontent.com/Bluefissure/DalamudPlugins/Bluefissure/pluginmaster.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "1.3.2.0",
+        "DalamudApiLevel": 11,
+        "source": "https://raw.githubusercontent.com/Bluefissure/DalamudPlugins/Bluefissure/pluginmaster.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "1.3.1.1",
+        "DalamudApiLevel": 9,
         "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
         "link": "OK",
         "selected": false
@@ -2233,6 +1727,357 @@
     ]
   },
   {
+    "InternalName": "Imagenation",
+    "Name": "Imagenation",
+    "occurrences": 4,
+    "distinctVersions": 2,
+    "picked": {
+      "AssemblyVersion": "1.0.0.11",
+      "DalamudApiLevel": 15,
+      "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "1.0.0.11",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "1.0.0.4",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "Inviter",
+    "Name": "Inviter",
+    "occurrences": 2,
+    "distinctVersions": 2,
+    "picked": {
+      "AssemblyVersion": "1.1.4.0",
+      "DalamudApiLevel": 12,
+      "source": "https://raw.githubusercontent.com/Bluefissure/DalamudPlugins/Bluefissure/pluginmaster.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "1.1.4.0",
+        "DalamudApiLevel": 12,
+        "source": "https://raw.githubusercontent.com/Bluefissure/DalamudPlugins/Bluefissure/pluginmaster.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "1.1.1.1",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "Ktisis",
+    "Name": "Ktisis",
+    "occurrences": 2,
+    "distinctVersions": 2,
+    "picked": {
+      "AssemblyVersion": "0.4.1.2",
+      "DalamudApiLevel": 15,
+      "source": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "0.4.1.2",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "0.2.22",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "LMeter",
+    "Name": "LMeter",
+    "occurrences": 2,
+    "distinctVersions": 2,
+    "picked": {
+      "AssemblyVersion": "0.4.4.0",
+      "DalamudApiLevel": 15,
+      "source": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/pluginmaster_gh.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "0.4.4.0",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/LiangYuxuan/dalamud-plugin-cn-fetcher/master/pluginmaster_gh.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "0.3.0.1",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "MakePlacePlugin",
+    "Name": "MakePlace Plugin",
+    "occurrences": 2,
+    "distinctVersions": 2,
+    "picked": {
+      "AssemblyVersion": "3.7.3",
+      "DalamudApiLevel": 11,
+      "source": "https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/MakePlacePlugin.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "3.7.3",
+        "DalamudApiLevel": 11,
+        "source": "https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/MakePlacePlugin.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "3.5.0",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "MinionRoulette",
+    "Name": "Minion Roulette",
+    "occurrences": 2,
+    "distinctVersions": 2,
+    "picked": {
+      "AssemblyVersion": "1.2.0.3",
+      "DalamudApiLevel": null,
+      "source": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/pluginmaster.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "1.2.0.3",
+        "DalamudApiLevel": null,
+        "source": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "1.1.3.0",
+        "DalamudApiLevel": null,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "Moodles",
+    "Name": "Moodles",
+    "occurrences": 2,
+    "distinctVersions": 2,
+    "picked": {
+      "AssemblyVersion": "2.1.0.1",
+      "DalamudApiLevel": 15,
+      "source": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "2.1.0.1",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "1.0.0.15",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "NoClippy",
+    "Name": "NoClippy",
+    "occurrences": 2,
+    "distinctVersions": 2,
+    "picked": {
+      "AssemblyVersion": "0.5.0.24",
+      "DalamudApiLevel": 15,
+      "source": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "0.5.0.24",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "0.5.0.14",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "ObjectExplorer",
+    "Name": "ObjectExplorer",
+    "occurrences": 4,
+    "distinctVersions": 2,
+    "picked": {
+      "AssemblyVersion": "1.0.0.11",
+      "DalamudApiLevel": 15,
+      "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "1.0.0.11",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "1.0.0.3",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "OOBlugin",
+    "Name": "OOBlugin",
+    "occurrences": 3,
+    "distinctVersions": 2,
+    "picked": {
+      "AssemblyVersion": "1.1.2.11",
+      "DalamudApiLevel": 9,
+      "source": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "1.1.2.11",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "1.1.2.10",
+        "DalamudApiLevel": 8,
+        "source": "https://raw.githubusercontent.com/RedAsteroid/DalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "Orbwalker",
+    "Name": "Orbwalker",
+    "occurrences": 3,
+    "distinctVersions": 2,
+    "picked": {
+      "AssemblyVersion": "1.0.1.10",
+      "DalamudApiLevel": "15",
+      "source": "https://love.puni.sh/ment.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "1.0.1.10",
+        "DalamudApiLevel": "15",
+        "source": "https://love.puni.sh/ment.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "1.0.0.4",
+        "DalamudApiLevel": "9",
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "Prioritizer",
+    "Name": "Prioritizer",
+    "occurrences": 4,
+    "distinctVersions": 2,
+    "picked": {
+      "AssemblyVersion": "2.0.1.4",
+      "DalamudApiLevel": 15,
+      "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "2.0.1.4",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "2.0.0.8",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "ReAction",
+    "Name": "ReAction",
+    "occurrences": 2,
+    "distinctVersions": 2,
+    "picked": {
+      "AssemblyVersion": "1.3.5.1",
+      "DalamudApiLevel": 15,
+      "source": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "1.3.5.1",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "1.3.3.7",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
     "InternalName": "ReMakePlacePlugin",
     "Name": "ReMakePlace Plugin CN",
     "occurrences": 2,
@@ -2254,6 +2099,168 @@
         "AssemblyVersion": "7.2.8",
         "DalamudApiLevel": 13,
         "source": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/refs/heads/main/plugin.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "SelectString",
+    "Name": "SelectString",
+    "occurrences": 4,
+    "distinctVersions": 2,
+    "picked": {
+      "AssemblyVersion": "1.0.1.12",
+      "DalamudApiLevel": 15,
+      "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "1.0.1.12",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "1.0.0.6",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "SimpleHeels",
+    "Name": "Simple Heels",
+    "occurrences": 2,
+    "distinctVersions": 2,
+    "picked": {
+      "AssemblyVersion": "0.11.1.12",
+      "DalamudApiLevel": 15,
+      "source": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "0.11.1.12",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "0.9.3.3",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "HTTP404",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "Splatoon",
+    "Name": "Splatoon",
+    "occurrences": 3,
+    "distinctVersions": 2,
+    "picked": {
+      "AssemblyVersion": "3.9.2.32",
+      "DalamudApiLevel": "15",
+      "source": "https://love.puni.sh/ment.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "3.9.2.32",
+        "DalamudApiLevel": "15",
+        "source": "https://love.puni.sh/ment.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "3.4.1.3",
+        "DalamudApiLevel": "9",
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "TextAdvance",
+    "Name": "TextAdvance",
+    "occurrences": 5,
+    "distinctVersions": 2,
+    "picked": {
+      "AssemblyVersion": "3.3.0.1",
+      "DalamudApiLevel": 15,
+      "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "3.3.0.1",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "3.2.1.8",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "UnloadErrorFuckOff",
+    "Name": "UnloadErrorFuckOff",
+    "occurrences": 4,
+    "distinctVersions": 2,
+    "picked": {
+      "AssemblyVersion": "1.0.0.10",
+      "DalamudApiLevel": 15,
+      "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "1.0.0.10",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "1.0.0.4",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
+        "link": "OK",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "InternalName": "WExtras",
+    "Name": "WeathermanExtras",
+    "occurrences": 4,
+    "distinctVersions": 2,
+    "picked": {
+      "AssemblyVersion": "1.0.0.10",
+      "DalamudApiLevel": 15,
+      "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json"
+    },
+    "allVersions": [
+      {
+        "AssemblyVersion": "1.0.0.10",
+        "DalamudApiLevel": 15,
+        "source": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
+        "link": "OK",
+        "selected": true
+      },
+      {
+        "AssemblyVersion": "1.0.0.4",
+        "DalamudApiLevel": 9,
+        "source": "https://raw.githubusercontent.com/ryon5541/dalamud-repo-up/main/ffxiv_custom_repo.json",
         "link": "OK",
         "selected": false
       }
